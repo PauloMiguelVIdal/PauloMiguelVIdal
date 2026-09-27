@@ -118,7 +118,7 @@ Além de desenvolver projetos, compartilho minha evolução como desenvolvedor a
 
 ### 🎥 Do Zero ao Estágio
 
-[![YouTube](https://img.shields.io/badge/YouTube-Do%20Zero%20ao%20Estágio-red?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@PauloMiguel)
+[![YouTube](https://img.shields.io/badge/YouTube-Do%20Zero%20ao%20Estágio-red?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/channel/UC_z-FyJy92h8Qy89BMs8z5A)
 
 ---
 
@@ -136,4 +136,4 @@ Além de desenvolver projetos, compartilho minha evolução como desenvolvedor a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20Miguel-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/paulo-miguel-vidal-da-silva/)
 
-[![YouTube](https://img.shields.io/badge/YouTube-Paulo%20Miguel-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@PauloMiguel)
+[![YouTube](https://img.shields.io/badge/YouTube-Paulo%20Miguel-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/channel/UC_z-FyJy92h8Qy89BMs8z5A)
